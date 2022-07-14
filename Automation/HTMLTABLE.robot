@@ -12,6 +12,7 @@ Test Teardown  Close_Broswer
 *** Variables ***
 
 #variable1
+#variable 2
 
 *** Test Cases ***
 Test_case_1
